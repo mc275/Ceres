@@ -1,4 +1,4 @@
-*~
+=*~
 .*.swp
 CMakeLists.txt.user*
 *.kdev*
@@ -22,3 +22,6 @@ obj/
 jni/libs/
 .buildinfo
 bazel-*
+.idea/
+ceres-bin/
+cmake-build-debug/

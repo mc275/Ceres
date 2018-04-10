@@ -1,6 +1,12 @@
 Ceres Solver
 ============
 
+**2018.4.10**
+
+修改CMakeLists支持更多的examples
+
+------------
+
 Ceres Solver is an open source C++ library for modeling and solving
 large, complicated optimization problems. It is a feature rich, mature
 and performant library which has been used in production at Google
